@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assignments-Craps.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CrapsSImple.cpp
+c:\users\adity\onedrive\documents\visual studio 2017\projects\assorted programs\assignments - craps\crapssimple.cpp(48): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Craps.cpp
+  Generating Code...
+  Assignments-Craps.vcxproj -> c:\users\adity\onedrive\documents\visual studio 2017\Projects\Assorted Programs\Debug\Assignments - Craps.exe
+  Assignments-Craps.vcxproj -> c:\users\adity\onedrive\documents\visual studio 2017\Projects\Assorted Programs\Debug\Assignments - Craps.pdb (Partial PDB)

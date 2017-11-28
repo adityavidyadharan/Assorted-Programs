@@ -1,0 +1,7 @@
+﻿  BlackJack.cpp
+BlackJack.cpp(162): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 120 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Assignment - Black Jack.vcxproj -> C:\Users\adity\OneDrive\Documents\Visual Studio 2015\Projects\IntroductionC++\Release\Assignment - Black Jack.exe
+  Assignment - Black Jack.vcxproj -> C:\Users\adity\OneDrive\Documents\Visual Studio 2015\Projects\IntroductionC++\Release\Assignment - Black Jack.pdb (Full PDB)
